@@ -1,3 +1,9 @@
+// "TYPE": [INDICES]
+const data_japanese_words_by_type = {
+"noun": [0],
+"i-adjective": [0],
+}
+
 // "TAG": [INDICES]
 const data_japanese_words_by_tag = {
 "four_elements": [0],
